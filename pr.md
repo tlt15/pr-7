@@ -152,7 +152,7 @@ if __name__ == "__main__":
 
 [bubble_sort.pdf](https://github.com/HopHey0/Practises/blob/main/bubble_sort.pdf) - Итоговый PDF файл
 
-[bubble_sort.py](https://github.com/HopHey0/Practises/blob/main/bubble_sort.py) - Исходный код
+[bubble_sort.py](https://github.com/tlt15/pr-7/blob/main/bubble_sort.py) - Исходный код
 
 
 
