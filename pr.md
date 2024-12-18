@@ -148,7 +148,7 @@ if __name__ == "__main__":
 
 ```
 ### Файлы:
-[bubble_sort.nw](https://github.com/HopHey0/Practises/blob/main/bubble_sort.nw) - Файл nw
+[bubble_sort.nw](https://github.com/tlt15/pr-7/blob/main/bubble_sort.nw) - Файл nw
 
 [bubble_sort.pdf](https://github.com/HopHey0/Practises/blob/main/bubble_sort.pdf) - Итоговый PDF файл
 
