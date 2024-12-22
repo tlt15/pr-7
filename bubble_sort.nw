@@ -40,7 +40,7 @@ if __name__ == "__main__":
     print("Sorted array:", sorted_array)
 \end{lstlisting}
 
-\footnote{Разработал Ситнов МВ} 
+\footnote{Разработал Учар Р.А.М.} 
 
 \section{Заключение}
 
