@@ -169,7 +169,7 @@ if __name__ == "__main__":
 
 ## Решение:
 
-[doc.pdf](https://github.com/HopHey0/Practises/blob/main/doc.pdf)
+[doc.pdf](https://github.com/tlt15/pr-7/blob/main/doc.pdf)
 
 ## Полезные ссылки
 
