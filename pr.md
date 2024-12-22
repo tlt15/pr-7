@@ -54,7 +54,7 @@
 # PlantUML Editor
 
 @startuml
-actor "Студент Ситнов М.В." as Student
+actor "Студент Учар Р.А.М." as Student
 database "Piazza" as Piazza
 actor "Преподаватель" as Teacher
 
@@ -86,7 +86,7 @@ Piazza --> Student: Оценка получена
 
 @enduml
 ```
-![image](https://github.com/user-attachments/assets/e90f5281-8370-4968-ae63-edd5883e92de)
+![image](https://github.com/user-attachments/assets/e736de32-ea53-46df-9bab-207e6a0dfe69)
 
 
 ## Задача 3
@@ -138,7 +138,7 @@ if __name__ == "__main__":
     print("Sorted array:", sorted_array)
 \end{lstlisting}
 
-\footnote{Разработал Ситнов МВ} 
+\footnote{Разработал Учар Р.А.М.} 
 
 \section{Заключение}
 
