@@ -33,12 +33,12 @@
 
 \bigskip
 
-\textbf{Name:} Student Sitnov M.V.
-
+\textbf{Name:} Student Uchar R.A.M.
 \end{document}
 
 ```
-![image](https://github.com/user-attachments/assets/fbcba8f7-4d04-405a-bc9a-a12bf813d2c7)
+![image](https://github.com/user-attachments/assets/a8e9a97d-b204-4f47-8de6-ac038a3b99fe)
+
 
 ## Задача 2
 
